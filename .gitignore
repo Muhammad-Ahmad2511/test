@@ -1,0 +1,9 @@
+﻿# CSV files
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
